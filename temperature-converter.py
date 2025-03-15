@@ -16,7 +16,7 @@ while using == True:
     if response=="f":
         C = float(input("\nTemperature in Celsius:\n"))
         c_to_f(C)
-        pass
+        pass 
     elif response=="c":
         F = float(input("\nTemperature in Fahrenheit:\n"))
         f_to_c(F)
